@@ -19,7 +19,8 @@
     },
     {
       "trait_type": "Level",
-      "value": 5
+      "value": 5,
+      "max_value": 100
     },
     {
       "trait_type": "Stamina",
