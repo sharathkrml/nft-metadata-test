@@ -1,30 +1,30 @@
 {
-  "platform": "Art Blocks Factory",
-  "tokenID": "113000596",
-  "series": "N/A",
-  "aspect_ratio": 1,
-  "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
-  "name": "celestial cyclones #596",
-  "minted": true,
-  "artist": "hideo",
-  "description": "An interactive experience inspired by the classic breakout game. Destroy all the orbiting barriers and reach the core, while creating your own unique melody. Controls: Click to start. Left and right arrow keys or Mouse/trackpad to control the baton. P to pause. Look out for power-ups!",
-  "script_type": "threejs",
-  "project_id": "113",
-  "curation_status": "factory",
-  "image": "https://media.artblocks.io/113000596.png",
-  "generator_url": "https://generator.artblocks.io/113000596",
-  "animation_url": "https://generator.artblocks.io/113000596",
-  "royaltyInfo": {
+    "platform": "Art Blocks Factory",
+    "tokenID": "113000596",
+    "series": "N/A",
+    "aspect_ratio": 1,
+    "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+    "name": "celestial cyclones #596",
+    "minted": true,
+    "artist": "hideo",
+    "description": "An interactive experience inspired by the classic breakout game. Destroy all the orbiting barriers and reach the core, while creating your own unique melody. Controls: Click to start. Left and right arrow keys or Mouse/trackpad to control the baton. P to pause. Look out for power-ups!",
+    "script_type": "threejs",
+    "project_id": "113",
+    "curation_status": "factory",
+    "image": "https://media.artblocks.io/113000596.png",
+    "generator_url": "https://generator.artblocks.io/113000596",
+    "animation_url": "https://generator.artblocks.io/113000596",
+    "royaltyInfo": {
     "artistAddress": "0xe18fc96ba325ef22746ada9a82d521845a2c16f8",
     "additionalPayee": "0x0000000000000000000000000000000000000000",
     "additionalPayeePercentage": "0",
     "royaltyFeeByID": 5
-  },
-  "collection_name": "celestial cyclones by hideo",
-  "website": "https://hideocode.art",
-  "token_hash": "0x8e9fadb2dcb757c90c9757750617c528f0bed7ca082aa8a281447b20561615a9",
-  "external_url": "https://artblocks.io/token/113000596",
-  "features": {
+    },
+    "collection_name": "celestial cyclones by hideo",
+    "website": "https://hideocode.art",
+    "token_hash": "0x8e9fadb2dcb757c90c9757750617c528f0bed7ca082aa8a281447b20561615a9",
+    "external_url": "https://artblocks.io/token/113000596",
+    "features": {
     "chord": "7",
     "layers": 3,
     "spiral": "false",
@@ -39,69 +39,69 @@
     "bottom ornament": "false",
     "radius distortion": "low",
     "color distribution": "random"
-  },
-  "traits": [
+    },
+    "traits": [
     {
-      "trait_type": "celestial cyclones",
-      "value": "All celestial cyclones"
+    "trait_type": "celestial cyclones",
+    "value": "All celestial cyclones"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "chord: 7"
+    "trait_type": "celestial cyclones",
+    "value": "chord: 7"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "layers: 3"
+    "trait_type": "celestial cyclones",
+    "value": "layers: 3"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "spiral: false"
+    "trait_type": "celestial cyclones",
+    "value": "spiral: false"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "density: low"
+    "trait_type": "celestial cyclones",
+    "value": "density: low"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "palette: lava"
+    "trait_type": "celestial cyclones",
+    "value": "palette: lava"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "core size: huge"
+    "trait_type": "celestial cyclones",
+    "value": "core size: huge"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "core type: sphere"
+    "trait_type": "celestial cyclones",
+    "value": "core type: sphere"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "wireframe: false"
+    "trait_type": "celestial cyclones",
+    "value": "wireframe: false"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "top ornament: true"
+    "trait_type": "celestial cyclones",
+    "value": "top ornament: true"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "rotating core: false"
+    "trait_type": "celestial cyclones",
+    "value": "rotating core: false"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "rotation speed: medium"
+    "trait_type": "celestial cyclones",
+    "value": "rotation speed: medium"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "bottom ornament: false"
+    "trait_type": "celestial cyclones",
+    "value": "bottom ornament: false"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "radius distortion: low"
+    "trait_type": "celestial cyclones",
+    "value": "radius distortion: low"
     },
     {
-      "trait_type": "celestial cyclones",
-      "value": "color distribution: random"
+    "trait_type": "celestial cyclones",
+    "value": "color distribution: random"
     }
-  ],
-  "is_static": false,
-  "license": "NIFTY License"
-}
+    ],
+    "is_static": false,
+    "license": "NIFTY License"
+    }
