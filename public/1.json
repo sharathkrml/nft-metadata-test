@@ -33,7 +33,8 @@
     {
       "display_type": "boost_number",
       "trait_type": "Aqua Power",
-      "value": -40
+      "value": -40,
+      "max_value":100
     },
     {
       "display_type": "boost_percentage",
