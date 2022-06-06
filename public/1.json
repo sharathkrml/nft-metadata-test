@@ -1,56 +1,107 @@
 {
-  "name": "Dave Starbelly",
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
-  "external_url": "https://www.google.com",
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
-  "background_color": "FF0000",
-  "attributes": [
+  "platform": "Art Blocks Factory",
+  "tokenID": "113000596",
+  "series": "N/A",
+  "aspect_ratio": 1,
+  "payout_address": "0x6C093Fe8bc59e1e0cAe2Ec10F0B717D3D182056B",
+  "name": "celestial cyclones #596",
+  "minted": true,
+  "artist": "hideo",
+  "description": "An interactive experience inspired by the classic breakout game. Destroy all the orbiting barriers and reach the core, while creating your own unique melody. Controls: Click to start. Left and right arrow keys or Mouse/trackpad to control the baton. P to pause. Look out for power-ups!",
+  "script_type": "threejs",
+  "project_id": "113",
+  "curation_status": "factory",
+  "image": "https://media.artblocks.io/113000596.png",
+  "generator_url": "https://generator.artblocks.io/113000596",
+  "animation_url": "https://generator.artblocks.io/113000596",
+  "royaltyInfo": {
+    "artistAddress": "0xe18fc96ba325ef22746ada9a82d521845a2c16f8",
+    "additionalPayee": "0x0000000000000000000000000000000000000000",
+    "additionalPayeePercentage": "0",
+    "royaltyFeeByID": 5
+  },
+  "collection_name": "celestial cyclones by hideo",
+  "website": "https://hideocode.art",
+  "token_hash": "0x8e9fadb2dcb757c90c9757750617c528f0bed7ca082aa8a281447b20561615a9",
+  "external_url": "https://artblocks.io/token/113000596",
+  "features": {
+    "chord": "7",
+    "layers": 3,
+    "spiral": "false",
+    "density": "low",
+    "palette": "lava",
+    "core size": "huge",
+    "core type": "sphere",
+    "wireframe": "false",
+    "top ornament": "true",
+    "rotating core": "false",
+    "rotation speed": "medium",
+    "bottom ornament": "false",
+    "radius distortion": "low",
+    "color distribution": "random"
+  },
+  "traits": [
     {
-      "trait_type": "Base",
-      "value": "Starfish"
+      "trait_type": "celestial cyclones",
+      "value": "All celestial cyclones"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Big"
+      "trait_type": "celestial cyclones",
+      "value": "chord: 7"
     },
     {
-      "trait_type": "Mouth",
-      "value": "Surprised"
+      "trait_type": "celestial cyclones",
+      "value": "layers: 3"
     },
     {
-      "trait_type": "Level",
-      "value": 5,
-      "max_value": 100
+      "trait_type": "celestial cyclones",
+      "value": "spiral: false"
     },
     {
-      "trait_type": "Stamina",
-      "value": 1.4
+      "trait_type": "celestial cyclones",
+      "value": "density: low"
     },
     {
-      "trait_type": "Personality",
-      "value": "Sad"
+      "trait_type": "celestial cyclones",
+      "value": "palette: lava"
     },
     {
-      "display_type": "boost_number",
-      "trait_type": "Aqua Power",
-      "value": 40,
-      "max_value":100
+      "trait_type": "celestial cyclones",
+      "value": "core size: huge"
     },
     {
-      "display_type": "boost_percentage",
-      "trait_type": "Stamina Increase",
-      "value": 10
+      "trait_type": "celestial cyclones",
+      "value": "core type: sphere"
     },
     {
-      "display_type": "number",
-      "trait_type": "Generation",
-      "value": 2,
-      "max_value":100
+      "trait_type": "celestial cyclones",
+      "value": "wireframe: false"
     },
     {
-      "display_type": "date",
-      "trait_type": "birthday",
-      "value": 1546360800
+      "trait_type": "celestial cyclones",
+      "value": "top ornament: true"
+    },
+    {
+      "trait_type": "celestial cyclones",
+      "value": "rotating core: false"
+    },
+    {
+      "trait_type": "celestial cyclones",
+      "value": "rotation speed: medium"
+    },
+    {
+      "trait_type": "celestial cyclones",
+      "value": "bottom ornament: false"
+    },
+    {
+      "trait_type": "celestial cyclones",
+      "value": "radius distortion: low"
+    },
+    {
+      "trait_type": "celestial cyclones",
+      "value": "color distribution: random"
     }
-  ]
+  ],
+  "is_static": false,
+  "license": "NIFTY License"
 }
