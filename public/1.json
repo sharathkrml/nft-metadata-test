@@ -50,8 +50,7 @@
     {
       "display_type": "number",
       "trait_type": "ihh",
-      "value": 10,
-      "max_value": 100
+      "value": 10
     },
     {
       "display_type": "date",
