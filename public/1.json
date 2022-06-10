@@ -48,6 +48,12 @@
       "max_value": 100
     },
     {
+      "display_type": "number",
+      "trait_type": "ihh",
+      "value": 10,
+      "max_value": 100
+    },
+    {
       "display_type": "date",
       "trait_type": "birthday",
       "value": 1546360800
