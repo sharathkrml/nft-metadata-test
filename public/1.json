@@ -56,7 +56,7 @@
       "display_type": "number",
       "trait_type": "Generation",
       "value": 2,
-      "max_value": 100
+      "max_value": 50
     },
     {
       "display_type": "number",
