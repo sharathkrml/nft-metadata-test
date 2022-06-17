@@ -1,79 +1,33 @@
 {
-  "name": "Dave SHarath",
-  "description": "_Friendly_ OpenSea Creature that enjoys long swims in the ocean.",
-  "external_url": "https://www.google.com",
-  "image": "ipfs://QmeNLBYzYVCh12Lf8qbSsPEX3XTfJiRhPv2tJsLn1QTxse",
-  "background_color": "FF0000",
-  "youtube_url": "https://www.youtube.com/watch?v=tPEE9ZwTmy0",
-  "animation_url": "ipfs://QmRVykoK57WXkJWojKnzf66zeUpEGhBj8u19emJSrjWa9m",
+  "name": "name",
+  "external_url": "url",
+  "description": "desc",
+  "image": "ipfs://QmYrrfwBdN1ZTYaSqfM9z4QrmaxLJEoQCWXogCik6gMfso",
+  "background_color": "0013F9",
   "attributes": [
+    { "display_type": "date", "trait_type": "birthday", "value": 1546360800 },
     {
-      "trait_type": "Base",
-      "value": "Starfish"
+      "display_type": "date",
+      "trait_type": "1st anniversary",
+      "value": 1577920800
     },
-    {
-      "trait_type": "Eyes",
-      "value": "Big"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Surprised"
-    },
-    {
-      "trait_type": "Level",
-      "value": 5,
-      "max_value": 100
-    },
-    {
-      "trait_type": "Stamina",
-      "value": 1.4
-    },
-    {
-      "trait_type": "Personality",
-      "value": "Sad"
-    },
-    {
-      "display_type": "boost_number",
-      "trait_type": "Aqua Power",
-      "value": 40,
-      "max_value": 100
-    },
-    {
-      "display_type": "boost_percentage",
-      "trait_type": "Stamina Increaseesh",
-      "value": 10
-    },
-    {
-      "display_type": "boost_number",
-      "trait_type": "Aqua Poweresh",
-      "value": 40,
-      "max_value": 100
-    },
+    { "display_type": "boost_number", "trait_type": "Aqua Power", "value": 40 },
     {
       "display_type": "boost_percentage",
       "trait_type": "Stamina Increase",
       "value": 10
     },
+    { "trait_type": "Level", "value": 5, "max_value": 100 },
+    { "trait_type": "Stamina", "value": 1.4 },
     {
       "display_type": "number",
       "trait_type": "Generation",
       "value": 2,
       "max_value": 50
     },
-    {
-      "display_type": "number",
-      "trait_type": "ihh",
-      "value": 10
-    },
-    {
-      "display_type": "date",
-      "trait_type": "birthday",
-      "value": 1546360800
-    },
-    {
-      "display_type": "date",
-      "trait_type": "Hii",
-      "value": 1546360981
-    }
+    { "display_type": "number", "trait_type": "Level", "value": 10 },
+    { "trait_type": "Base", "value": "Starfish" },
+    { "trait_type": "Eyes", "value": "Big" },
+    { "trait_type": "Mouth", "value": "Surprised" }
   ]
 }
