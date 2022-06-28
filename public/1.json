@@ -1,9 +1,8 @@
 {
-  "name": "name changed",
-  "external_url": "https://www.google.com",
-  "description": "desc",
-  "image": "ipfs://QmYrrfwBdN1ZTYaSqfM9z4QrmaxLJEoQCWXogCik6gMfso",
-  "background_color": "0013F9",
+  "name": "Lorem Ipsum #1",
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "image": "ipfs://QmPsb1jthhrqqRjT6FCFbi7ZSHaJEF1Jdd43xVVnPbyTzN",
+  "background_color": "251A52",
   "attributes": [
     { "display_type": "date", "trait_type": "birthday", "value": 1546360800 },
     {
