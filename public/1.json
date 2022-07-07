@@ -1,7 +1,7 @@
 {
-  "name": "Lorem Ipsum #1",
+  "name": "3d",
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
-  "image": "ipfs://QmPsb1jthhrqqRjT6FCFbi7ZSHaJEF1Jdd43xVVnPbyTzN",
+  "animation_url": "https://pubg-lobby.vercel.app/",
   "background_color": "251A52",
   "attributes": [
     { "display_type": "date", "trait_type": "birthday", "value": 1546360800 },
